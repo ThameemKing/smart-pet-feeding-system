@@ -19,7 +19,8 @@ It enables:
 ---
 
 ## 🏗 System Architecture
-'''
+
+```
 +----------------------+
 |  Web Browser Client  |
 |  (HTML + TF.js)      |
@@ -46,7 +47,7 @@ It enables:
 |  Food Dispensing     |
 |  Mechanism           |
 +----------------------+
-'''
+```
 
 ## ⚙️ Key Engineering Features
 
